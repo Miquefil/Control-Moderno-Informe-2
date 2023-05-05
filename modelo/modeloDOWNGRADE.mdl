@@ -6,7 +6,7 @@ Model {
     NumRootInports	    0
     NumRootOutports	    0
     ParameterArgumentNames  ""
-    ComputedModelVersion    "15.2"
+    ComputedModelVersion    "15.3"
     NumModelReferences	    0
     NumTestPointedSignals   0
     NumProvidedFunctions    0
@@ -131,9 +131,9 @@ Model {
   ModifiedByFormat	  "%<Auto>"
   LastModifiedBy	  "mique"
   ModifiedDateFormat	  "%<Auto>"
-  LastModifiedDate	  "Fri May 05 12:19:07 2023"
-  RTWModifiedTimeStamp	  605189944
-  ModelVersionFormat	  "15.%<AutoIncrement:2>"
+  LastModifiedDate	  "Fri May 05 12:50:18 2023"
+  RTWModifiedTimeStamp	  605190634
+  ModelVersionFormat	  "15.%<AutoIncrement:3>"
   SampleTimeColors	  off
   SampleTimeAnnotations	  off
   LibraryLinkDisplay	  "none"
@@ -249,7 +249,7 @@ Model {
 	  Description		  ""
 	  Components		  []
 	  StartTime		  "0.0"
-	  StopTime		  "20"
+	  StopTime		  "10"
 	  AbsTol		  "auto"
 	  AutoScaleAbsTol	  on
 	  FixedStep		  "auto"
